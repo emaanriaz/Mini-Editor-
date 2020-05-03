@@ -1,0 +1,10 @@
+Hello
+How are you
+I am a file
+My name is editor.txt
+I live in the magical world of replit
+You can find me in the Mini Editor program
+I was created by Emaan Riaz
+But you may edit me
+See you soon
+Goodbye
