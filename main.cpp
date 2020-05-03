@@ -1,7 +1,4 @@
-/* Emaan Riaz w1669220
-CISP 400 
-Mini Project: Text Editor
-*/
+//Mini Project: Text Editor
 #include "editor.h"
 #include <iostream>
 
